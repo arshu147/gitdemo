@@ -1,7 +1,10 @@
 package gitdemo;
 
+import org.testng.annotations.Test;
+
 public class neww {
-public static void main(String[] args) {
-	System.out.println("");
+@Test
+public void rruu() {
+	System.out.println("running");
 }
 }
